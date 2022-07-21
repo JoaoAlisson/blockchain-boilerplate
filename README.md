@@ -1,1 +1,3 @@
-# blockchain-boilerplate
+# Blockchain Boilerplate
+
+TECHs: Solidity | Web3 
